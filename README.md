@@ -25,12 +25,11 @@
 
 ```yaml
 name: Samir Magar
-role: Full-Stack Developer & AI Developer
+role: Full-Stack Web Developer
 focus:
-  - 💻 Building full-stack web applications
+  - 💻 Full-stack web development — my primary focus and strongest skill set
   - 🤖 Building AI-powered chatbots & LLM applications
   - 👁️ Exploring Computer Vision & Deep Learning
-  - 🌱 Currently learning AI Agents, RAG systems & Cloud Deployment
   - 🔍 Always excited to learn and ship new things
 ```
 
@@ -121,18 +120,6 @@ focus:
 </table>
 
 > 💡 Tip: replace these summaries with links to your actual repos, e.g. `[AI Chatbot](https://github.com/Samir-pemi-magar/your-repo)`, so visitors can click straight through.
-
-<br/>
-
-## 📚 Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG%20Systems-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Design-000000?style=for-the-badge" />
-</p>
 
 <br/>
 
