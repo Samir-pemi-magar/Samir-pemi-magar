@@ -62,14 +62,6 @@ focus:
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Samir-pemi-magar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<br/>
-
 ## 📈 Contribution Graph
 
 <p align="center">
