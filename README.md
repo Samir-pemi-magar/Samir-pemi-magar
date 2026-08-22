@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Samir Magar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;AI+%26+LLM+Application+Builder;Computer+Vision+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Learning+AI+%26+LLM+Tool-Calling;Computer+Vision+with+OpenCV;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  I build scalable web applications, AI-powered chatbots, and computer vision solutions that solve real-world problems.
+  I build full-stack web apps, and I'm actively learning to build and ship AI-powered systems — from self-hosted LLM tool-calling backends to computer vision apps.
 </p>
 
 <p align="center">
@@ -28,9 +28,10 @@ name: Samir Magar
 role: Full-Stack Web Developer
 focus:
   - 💻 Full-stack web development — my primary focus and strongest skill set
-  - 🤖 Building AI-powered chatbots & LLM applications
-  - 👁️ Exploring Computer Vision & Deep Learning
-  - 🔍 Always excited to learn and ship new things
+  - 🤖 Learning to build LLM-powered systems: self-hosted inference, tool calling, agent workflows
+  - 👁️ Computer vision with OpenCV — built a gesture-controlled app control system
+  - 🐚 Comfortable with shell commands (bash, PowerShell) for debugging, environment setup, and Docker/WSL workflows
+  - 🔍 Hands-on learner — I like understanding why something works, not just that it does
 ```
 
 <br/>
@@ -38,26 +39,22 @@ focus:
 ## 🛠️ Tech Stack
 
 **Languages**
-<p><img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java" /></p>
+<p><img src="https://skillicons.dev/icons?i=js,python,html,css" /></p>
 
 **Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /></p>
+<p><img src="https://skillicons.dev/icons?i=react" /></p>
 
 **Backend**
 <p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /></p>
 
-**Databases**
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" /></p>
+**Database & Storage**
+<p><img src="https://skillicons.dev/icons?i=supabase" /></p>
 
-**AI & Machine Learning**
+**AI & Computer Vision**
 <p>
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/sglang-1F4E5F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Tool%20Calling-412991?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge" />
 </p>
 
 **Tools**
@@ -86,27 +83,31 @@ focus:
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 AI Chatbot</h3>
-      <p>An intelligent chatbot powered by Large Language Models with contextual, multi-turn conversations.</p>
+      <h3>🤖 Self-Hosted LLM Tool-Calling Backend</h3>
+      <p>FastAPI + sglang + Docker. Serves a locally-hosted LLM (Qwen3-1.7B) with full tool-calling support — the model can call real functions like reading and updating Excel workbooks. Built the schema/registry pattern, the tool-call loop, and debugged real infra issues (CUDA compatibility, deprecated flags, a corrupted-model-cache segfault) along the way.</p>
+      <!-- <a href="https://github.com/Samir-pemi-magar/your-repo">View repo →</a> -->
     </td>
     <td width="50%">
-      <h3>👁️ Computer Vision System</h3>
-      <p>Real-time object detection and image processing using OpenCV and deep learning models.</p>
+      <h3>👁️ Hand Gesture App Control System</h3>
+      <p>Python + OpenCV. Controls desktop apps entirely through hand gestures in real time — open palm to show running apps, a point to select, dedicated gestures to open/close, and hand-tilt for pagination. No keyboard or mouse needed.</p>
+      <!-- <a href="https://github.com/Samir-pemi-magar/your-repo">View repo →</a> -->
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🌐 Full-Stack Web Application</h3>
-      <p>A responsive web application built with React, Node.js, Express, and MongoDB.</p>
+      <h3>🥾 Trekking Website</h3>
+      <p>Full-stack site built with Node.js/Express, Supabase for database and auth, and Cloudinary for image storage — covering booking/browsing flows end-to-end.</p>
+      <!-- <a href="https://github.com/Samir-pemi-magar/your-repo">View repo →</a> -->
     </td>
     <td width="50%">
-      <h3>📊 Dashboard Application</h3>
-      <p>A modern analytics dashboard with authentication and REST APIs.</p>
+      <h3>📝 Story Writing Platform</h3>
+      <p>Full-stack content-sharing platform (Final Year Project) where users can write, publish, and read stories — frontend UI and backend content management, built end-to-end.</p>
+      <!-- <a href="https://github.com/Samir-pemi-magar/your-repo">View repo →</a> -->
     </td>
   </tr>
 </table>
 
-> 💡 Tip: replace these summaries with links to your actual repos, e.g. `[AI Chatbot](https://github.com/Samir-pemi-magar/your-repo)`, so visitors can click straight through.
+> 💡 Uncomment the repo links above once each project is pushed, so visitors can click straight through.
 
 <br/>
 
